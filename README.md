@@ -33,7 +33,7 @@
 - **Hugging Face Space**: https://huggingface.co/spaces/Vimal9900/vision-narrator  
   Click the badge above or the banner image to open the app.
 
-> **Add a demo image:** Replace `assets/demo.png` with a screenshot or GIF of your app (e.g., a screen capture of the Space). The relative path is already wired above.
+> **Add a demo image:** Replace `assets/image.png` with a screenshot or GIF of your app (e.g., a screen capture of the Space). The relative path is already wired above.
 
 ---
 
