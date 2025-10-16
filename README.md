@@ -206,7 +206,7 @@ If you use VisionNarrate in your research, please cite:
 ```bibtex
 @software{visionnarrate_2025,
   title        = {VisionNarrate: Assistive Image Narration},
-  author       = {Your Name and Contributors},
+  author       = {Princu Singh, Vimal Kumar Verma},
   year         = {2025},
   url          = {https://huggingface.co/spaces/Vimal9900/vision-narrator}
 }
