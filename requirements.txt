@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+tqdm
+pillow
+numpy
+pandas
+scikit-learn
+wandb
+matplotlib
+accelerate
