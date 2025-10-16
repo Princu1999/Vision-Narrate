@@ -33,17 +33,17 @@
 - **Hugging Face Space**: https://huggingface.co/spaces/Vimal9900/vision-narrator  
   Click the badge above or the banner image to open the app.
 
-> 🔎 **Add a demo image:** Replace `assets/demo.png` with a screenshot or GIF of your app (e.g., a screen capture of the Space). The relative path is already wired above.
+> **Add a demo image:** Replace `assets/demo.png` with a screenshot or GIF of your app (e.g., a screen capture of the Space). The relative path is already wired above.
 
 ---
 
 ## Features
 
-- 💬 **Assistive Narration**: Context-aware image descriptions tailored for accessibility.
-- 🧠 **Modern Vision–Language Stack**: Built with PyTorch and Hugging Face tooling.
-- 🧩 **Modular Codebase**: Clear separation of `models`, `datasets`, `train_utils`, `metrics`, and `inference`.
-- 🧪 **CLI Utilities**: One-liners to train, run inference, and evaluate.
-- 🚀 **Production-Friendly**: Simple structure to package, deploy, or containerize.
+-  **Assistive Narration**: Context-aware image descriptions tailored for accessibility.
+-  **Modern Vision–Language Stack**: Built with PyTorch and Hugging Face tooling.
+-  **Modular Codebase**: Clear separation of `models`, `datasets`, `train_utils`, `metrics`, and `inference`.
+-  **CLI Utilities**: One-liners to train, run inference, and evaluate.
+-  **Production-Friendly**: Simple structure to package, deploy, or containerize.
 
 ---
 
