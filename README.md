@@ -2,7 +2,7 @@
 
 [![🤗 Try on Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Try%20the%20Live%20Demo%20on%20Hugging%20Face-ffcc4d?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Vimal9900/vision-narrator)
 
-[<img src="assets/demo.png" alt="VisionNarrate demo" width="100%">](https://huggingface.co/spaces/Vimal9900/vision-narrator)
+[<img src="assets/image.png" alt="VisionNarrate demo" width="100%">](https://huggingface.co/spaces/Vimal9900/vision-narrator)
 
 > **VisionNarrate** generates rich, assistive descriptions for images. The goal is to provide context-aware, emotion-sensitive narration that is useful for visually impaired users and accessible UI scenarios.
 
